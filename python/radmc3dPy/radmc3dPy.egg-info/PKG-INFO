@@ -2,9 +2,15 @@ Metadata-Version: 2.1
 Name: radmc3dPy
 Version: 2.0
 Summary: Python module for RADMC3D
+Home-page: UNKNOWN
 Author: Attila Juhasz
 Author-email: at.juhasz01@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
 Requires: numpy
 Requires: scipy
 Requires: matplotlib
 Requires: astropy
+
+UNKNOWN
+
